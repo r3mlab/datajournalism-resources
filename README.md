@@ -39,9 +39,8 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
  - [Searches, info, related entities](#searches-info-related-entities)
  - [Scraping](#scraping)
  - [Dark Web & Onion services](#dark-web-onion-services)
-
-## Whistleblowing software
-## Misc
+- [Whistleblowing software](#whistleblowing-software)
+- [Misc](#misc)
 
 
 ## APIs
