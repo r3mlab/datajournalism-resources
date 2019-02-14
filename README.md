@@ -132,7 +132,7 @@ Search YT videos by location & time frame.
 - [IntelTechniques.com](https://inteltechniques.com/menu.html):
 Various video search & reverse search tools and lists of resources.
 
-### Metadata
+### Metadata
 - Exif Viewer ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/)/[Chrome](https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck))
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
 - [Exiftool](http://owl.phy.queensu.ca/~phil/exiftool/): Read and edit metadata. [Linode Tutorial](https://linoxide.com/linux-how-to/install-use-exiftool-linux-ubuntu-centos/)
@@ -140,7 +140,7 @@ Various video search & reverse search tools and lists of resources.
 - [Ghiro](https://github.com/ghirensics/ghiro): Automated image forensics tool
 - Thunar Custom Actions: [Exiftool](https://www.linuxliteos.com/forums/tutorials/thunar-custom-action-for-viewing-a-file's-copyright-or-exif-information/), [ffmpeg](https://help.ubuntu.com/community/ThunarCustomActions#Grab_Metadata_From_Media_File)
 
-### Reverse search
+### Reverse search
 - [IntelTechniques.com](https://inteltechniques.com/menu.html):
 Various image search & reverse search tools and lists of resources.
 - [Google Images](https://images.google.com/)
@@ -148,7 +148,7 @@ Various image search & reverse search tools and lists of resources.
 - [Bing Images](https://www.bing.com/images/) Can search part of the image
 - [CitizenEvidence](https://citizenevidence.amnestyusa.org/): Google Images reverse search on Youtube thumbnails.
 
-### Verification & Analysis
+### Verification & Analysis
 - [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/): verification “Swiss army knife”.
 - FirstDraftNews: [Photo Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf) & [Video Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_videos.pdf). Also offers verification courses.
 - [How to verify photos and videos on social media networks](http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks) (France24)
@@ -156,7 +156,7 @@ Various image search & reverse search tools and lists of resources.
 - [Verification Handbook](http://verificationhandbook.com/book/): Handbook by the European Journalism Centre about verifying digital content in emergency coverage.
 - [Verification 101](https://medium.com/1st-draft/verification-101-storyful-s-advice-for-checking-out-material-from-social-media-and-putting-it-750495792876): Storyful’s advice for checking out material from social media, and putting it into practice
 
-### Military/Weapons
+### Military/Weapons
 - [How to Digitally Verify Combatant Affiliation in Middle East Conflicts](https://www.bellingcat.com/resources/how-tos/2018/07/09/digitally-verify-middle-east-conflicts/) (Bellingcat)
 - [CamoPedia](http://www.camopedia.org): Camouflage encyclopedia. Search & compare camouflage patterns. See also the [ICUS Camouflage Index](http://camouflageindex.camouflagesociety.org/index-2.html)
 - [International Encyclopedia of Uniform Insignia](http://www.uniforminsignia.org/). See also [List of Comparative Military Ranks](https://en.wikipedia.org/wiki/List_of_comparative_military_ranks)
@@ -187,7 +187,7 @@ Various image search & reverse search tools and lists of resources.
 - [ICIJ Extract](https://github.com/ICIJ/extract): a command line tool for parallelized, distributed content-extraction.
 - [searchbox](https://github.com/StephenGrey/searchbox): a simple out-of-the-box web interface to search through thousands of unstructured documents using Solr.
 
-### OCR
+### OCR
 - [NewOCR.com](https://www.newocr.com/): recognize several languages, resize images, shortcuts to Google & Bing Translate.
 - [Tesseract](https://github.com/tesseract-ocr/tesseract): open-source OCR engine.
 
