@@ -50,7 +50,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ## Archival
 - [Internet Archive Wayback Machine](https://web.archive.org/)
- - [waybackpack](https://github.com/jsvine/waybackpack) Command-line utility & python library to download content from the Wayback Machine. See [this example](https://www.bellingcat.com/resources/2016/12/06/vacuuming-image-metadata-wayback-machine/).
+    - [waybackpack](https://github.com/jsvine/waybackpack) Command-line utility & python library to download content from the Wayback Machine. See [this example](https://www.bellingcat.com/resources/2016/12/06/vacuuming-image-metadata-wayback-machine/).
 - [archive.today](https://archive.fo/): saves pages as screenshots, which is useful for social media websites the WayBack Machine can't handle.
 - [Hunch.ly](https://www.hunch.ly/): web Capture Tool Designed For Online Investigations ($129.99/y).
 - [How to Archive Open Source Materials](https://www.bellingcat.com/resources/how-tos/2018/02/22/archive-open-source-materials/) (Bellingcat)
@@ -87,15 +87,15 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 ### Mapping services & software
 - [GoogleMaps](https://maps.google.com)
 - [Google Earth](https://www.google.com/earth/)
- - [Google Earth Outreach](https://www.google.com/earth/outreach/learn/): Advanced Google Earth tutorials. Example: [Image & Photos Overlay](https://www.google.com/earth/outreach/learn/creating-photos-image-overlays-in-google-earth/)
- - [Google Earth Engine](https://earthengine.google.com/): Datasets, case studies, etc.
-  - [GEarth Blog](https://www.gearthblog.com): resources & how-tos about Google Earth
+    - [Google Earth Outreach](https://www.google.com/earth/outreach/learn/): Advanced Google Earth tutorials. Example: [Image & Photos Overlay](https://www.google.com/earth/outreach/learn/creating-photos-image-overlays-in-google-earth/)
+    - [Google Earth Engine](https://earthengine.google.com/): Datasets, case studies, etc.
+    - [GEarth Blog](https://www.gearthblog.com): resources & how-tos about Google Earth
 - [DigitalGlobe Discover](https://discover.digitalglobe.com/): Search for satellite imagery of a particular location. Ability to download images (low-resolution compared to Google Earth).
 - [Yandex Maps](https://yandex.com/maps): Google Streetview alternative.
 - [SentinelHub](https://www.sentinel-hub.com/): satellite imagery, historical data from several sources, vegetation infrared & index, image exports & comparison. 2 products:
- - [Playground](https://apps.sentinel-hub.com/sentinel-playground/): data discovery, playing around
- - [EO Browser](https://apps.sentinel-hub.com/eo-browser/): compare full resolution images from several sources (Landsat, Sentinel), make time lapses & export to GIF (free signup required).
- - See also the [custom scripts](https://github.com/sentinel-hub/custom-scripts) to highlight fire, snow, metals, type of terrain, etc.
+    - [Playground](https://apps.sentinel-hub.com/sentinel-playground/): data discovery, playing around
+    - [EO Browser](https://apps.sentinel-hub.com/eo-browser/): compare full resolution images from several sources (Landsat, Sentinel), make time lapses & export to GIF (free signup required).
+    - See also the [custom scripts](https://github.com/sentinel-hub/custom-scripts) to highlight fire, snow, metals, type of terrain, etc.
 
 ### Tools & techniques
 - [Geographic Bounding Box Drawing Tool](http://automatingsint.com/blog/geographic-bounding-box-drawing-tool/) (AutomatingOSINT.com). Draw a rectangle over a map and get the coordinates of its points & center.
@@ -224,10 +224,10 @@ Various image search & reverse search tools and lists of resources.
 
 ### Searches, info, related entities
 - Advanced Google searches
- - [Google Search Operators](https://moz.com/learn/seo/search-operators) (moz.com)
- - [Mastering Google Search Operators in 67 steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps) (moz.com)
- - [How to use Google dork for hacking](http://www.tekgyd.com/2015/07/how-to-use-google-dork-for-hacking.html) (tekgyd.com)
- - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) (Exploit.db)
+    - [Google Search Operators](https://moz.com/learn/seo/search-operators) (moz.com)
+    - [Mastering Google Search Operators in 67 steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps) (moz.com)
+    - [How to use Google dork for hacking](http://www.tekgyd.com/2015/07/how-to-use-google-dork-for-hacking.html) (tekgyd.com)
+    - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) (Exploit.db)
 - whois (Registrar, owner info)
 - [SpyOnWeb](http://spyonweb.com/): search by URL, IP address, analytics codes. API with free plan. See [this Belligcat how-to](https://www.bellingcat.com/resources/2017/07/31/automatically-discover-website-connections-tracking-codes/) for automation.
 - [NerdyData Search](https://search.nerdydata.com/): search the source code of pages.
