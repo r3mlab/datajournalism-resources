@@ -59,12 +59,12 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 ## APIs
 - [Public APIs](https://github.com/abhishekbanthia/Public-APIs) :pencil: - A categorized list of APIs.
 - [Postman](https://www.getpostman.com/) :computer: - API development environment offering useful tools for crafting and debugging API requests.
-- [ProgrammableWeb](https://www.programmableweb.com) :globe_with_meridians: - A good API directory.
+- [ProgrammableWeb](https://www.programmableweb.com) :pencil: - A good API directory.
 
 ## Archival
 - [Internet Archive Wayback Machine](https://web.archive.org/) :globe_with_meridians:
-    -  [waybackpack](https://github.com/jsvine/waybackpack) :computer::snake: - Command-line utility & python library to download content from the Wayback Machine. See [this example](https://www.bellingcat.com/resources/2016/12/06/vacuuming-image-metadata-wayback-machine/).
--  [archive.today](https://archive.fo/) :globe_with_meridians: - Saves pages as screenshots, which is useful for social media websites the WayBack Machine can't handle.
+    -  [waybackpack](https://github.com/jsvine/waybackpack) :computer::snake: - Command-line utility & Python library to download content from the Wayback Machine. See [this example](https://www.bellingcat.com/resources/2016/12/06/vacuuming-image-metadata-wayback-machine/).
+-  [archive.today](https://archive.fo/) :globe_with_meridians: - Saves pages as screenshots, useful for websites the WayBack Machine can't handle.
 -  [Hunch.ly](https://www.hunch.ly/) :globe_with_meridians:💲 - Web capture tool designed for online Investigations ($129.99/y).
 -  [How to Archive Open Source Materials](https://www.bellingcat.com/resources/how-tos/2018/02/22/archive-open-source-materials/) :book: (Bellingcat)
 -  [Firefox Screenshots](https://screenshots.firefox.com/) :computer: - Firefox can take a screenshot of a full page (i.e. 'scrolling' screenshot).
@@ -95,13 +95,13 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ## Lists of tools & resources
 - [IntelTechniques.com]( https://inteltechniques.com/menu.html) :pencil: - Resources, links & OSINT tools, organized by target data.
-- Bellingcat's [Guides](https://bellingcat.com/category/resources/how-tos/) :book: - OSINT & Datajournalism how-tos.
-- Bellingcat's [Online Investigation Toolkit ](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) :pencil:
+- [Guides](https://bellingcat.com/category/resources/how-tos/) :book: (Bellingcat) - OSINT & Datajournalism how-tos.
+- [Online Investigation Toolkit ](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit) :pencil: (Bellingcat)
 - [awesome-osint](https://github.com/jivoi/awesome-osint) :pencil: - A curated list of open source intelligence tools and resources.
 - [OSINT framework](https://osintframework.com/) :pencil: - Tree list of OSINT tools & resources.
 - [OSINT Collection](https://github.com/Ph055a/OSINT-Collection) :pencil: - Collection of OSINT related resources.
-- I-Intelligence's [Open Source Intelligence Tools and Resources Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) :pencil: - Very complete lists of OSINT tools & resources, organized by category. No descriptions.
-- [AutomatedOSINT.com](http://www.automatingosint.com/blog/) - A Blog about automating OSINT techniques using Python.
+- I-Intelligence's [Open Source Intelligence Tools and Resources Handbook 2018](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf) :pencil: - Very complete list of OSINT tools & resources, organized by category. No descriptions.
+- [AutomatedOSINT.com](http://www.automatingosint.com/blog/) :book: - A Blog about automating OSINT techniques using Python.
 - [netbootcamp](https://netbootcamp.org/osinttools/) :pencil: - Custom search forms and lists of resources by theme.
 
 ## Location, Maps, Satellite Imagery
@@ -238,7 +238,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 ### Maps
 - Google Sheets, Google MyMaps, Google Fusion Tables, Google Earth... :globe_with_meridians:
 - [KML Interactive Sampler](https://googlemaps.github.io/kml-samples/interactive/index.html) :globe_with_meridians: - Lots of KML templates
-- [Excel Powermap Plugin](http://geoawesomeness.com/geoawesomehowto-how-to-make-a-killer-map-using-excel-in-under-5-minutes-with-powermap-plugin/) :book:
+- [Excel Powermap Plugin Tutorial](http://geoawesomeness.com/geoawesomehowto-how-to-make-a-killer-map-using-excel-in-under-5-minutes-with-powermap-plugin/) :book:
 - [ArcGIS](https://www.esri.com/en-us/home) :computer:💲 - mapping & analysis software (proprietary, paid, 21-day trial)
 - [QGIS](https://www.qgis.org/en/site/about/index.html) :computer: - Free & open-source alternative to ArcGis.
 
