@@ -273,7 +273,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) :computer: - Subdomains enumeration tool.
 
 ### Scraping
--[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Selenium](https://www.seleniumhq.org/), [Scrapy](https://scrapy.org/) :snake: - Python scraping libraries.
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Selenium](https://www.seleniumhq.org/), [Scrapy](https://scrapy.org/) :snake: - Python scraping libraries.
 - [Photon](https://github.com/s0md3v/Photon) :computer: - Crawl a website (or its archive from the WayBack machine) and extract URLs, emails, social media accounts, files, keys, subdomains, etc.
 - [Scrape Interactive Geospatial Data](https://www.bellingcat.com/resources/how-tos/2018/09/05/scrape-interactive-geospatial-data/) :book: (Bellingcat)
 
