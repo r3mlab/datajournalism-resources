@@ -19,18 +19,18 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Email](#email)
 - [Lists of tools & resources](#lists-of-tools--resources)
 - [Location, Maps, Satellite Imagery](#location-maps-satellite-imagery)
+    - [Interpretation](#interpretation)
     - [Mapping services & software](#mapping-services--software)
     - [Tools & techniques](#tools--techniques)
     - [User generated content](#user-generated-content)
-    - [Interpretation](#interpretation)
 - [Multi-purpose tools](#multi-purpose-tools)
 - [Phone numbers](#phone-numbers)
 - [Pictures, Photos, Videos](#pictures-photos-videos)
-    - [Search](#search)
     - [Metadata](#metadata)
-    - [Reverse search](#reverse-search)
-    - [Verification & Analysis](#verification--analysis)
     - [Military/Weapons](#militaryweapons)
+    - [Reverse search](#reverse-search)
+    - [Search](#search)
+    - [Verification & Analysis](#verification--analysis)
 - [Social Networks](#social-networks)
     - [General](#general)
     - [Facebook](#facebook)
@@ -40,9 +40,9 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
     - [Twitter](#twitter)
 - [Text & Documents](#text--documents)
     - [Indexing & searching](#indexing--searching)
+    - [PDF](#pdf)
     - [OCR](#ocr)
     - [Text Processing & Analysis](#text-processing--analysis)
-    - [PDF](#pdf)
 - [Visualization](#visualization)
     - [Graphs](#graphs)
     - [Maps](#maps)
@@ -50,24 +50,26 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
     - [Timelines](#timelines)
 - [Weather](#weather)
 - [Websites](#websites)
-    - [Searches, info, related entities](#searches-info-related-entities)
-    - [Scraping](#scraping)
     - [Dark Web & Onion services](#dark-web--onion-services)
+    - [Scraping](#scraping)
+    - [Searches, info, related entities](#searches-info-related-entities)
 - [Misc](#misc)
 
 
 ## APIs
-- [Public APIs](https://github.com/abhishekbanthia/Public-APIs) :pencil: - A categorized list of APIs.
 - [Postman](https://www.getpostman.com/) :computer: - API development environment offering useful tools for crafting and debugging API requests.
 - [ProgrammableWeb](https://www.programmableweb.com) :pencil: - A good API directory.
+- [Public APIs](https://github.com/abhishekbanthia/Public-APIs) :pencil: - A categorized list of APIs.
 
 ## Archival
+
+-  [archive.today](https://archive.fo/) :globe_with_meridians: - Saves pages as screenshots, useful for websites the WayBack Machine can't handle.
+-  [Firefox Screenshots](https://screenshots.firefox.com/) :computer: - Firefox can take a screenshot of a full page (i.e. 'scrolling' screenshot).
+-  [How to Archive Open Source Materials](https://www.bellingcat.com/resources/how-tos/2018/02/22/archive-open-source-materials/) :book: (Bellingcat)
+-  [Hunch.ly](https://www.hunch.ly/) :globe_with_meridians:💲 - Web capture tool designed for online Investigations ($129.99/y).
 - [Internet Archive Wayback Machine](https://web.archive.org/) :globe_with_meridians:
     -  [waybackpack](https://github.com/jsvine/waybackpack) :computer::snake: - Command-line utility & Python library to download content from the Wayback Machine. See [this example](https://www.bellingcat.com/resources/2016/12/06/vacuuming-image-metadata-wayback-machine/).
--  [archive.today](https://archive.fo/) :globe_with_meridians: - Saves pages as screenshots, useful for websites the WayBack Machine can't handle.
--  [Hunch.ly](https://www.hunch.ly/) :globe_with_meridians:💲 - Web capture tool designed for online Investigations ($129.99/y).
--  [How to Archive Open Source Materials](https://www.bellingcat.com/resources/how-tos/2018/02/22/archive-open-source-materials/) :book: (Bellingcat)
--  [Firefox Screenshots](https://screenshots.firefox.com/) :computer: - Firefox can take a screenshot of a full page (i.e. 'scrolling' screenshot).
+
 
 ## Breached Data
 - [Breach Data Search Engines Comparison](https://inteltechniques.com/blog/2018/09/30/breach-data-search-engines-comparison/) :pencil: (IntelTechniques)
@@ -77,7 +79,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 -  [Have I Been Pwned?](https://haveibeenpwned.com/) :globe_with_meridians: - Check if an email appears in a breach, set up alerts.
 
 ## Companies
-- [CompaniesHouse Short Guide](https://www.bellingcat.com/resources/how-tos/2017/06/23/companies-house-short-guide/) :book: - (Bellingcat) A guide about the UK online company registry.
+- [CompaniesHouse Short Guide](https://www.bellingcat.com/resources/how-tos/2017/06/23/companies-house-short-guide/) :book: (Bellingcat) - A guide about the UK online company registry.
 - [ICIJ's Offshore Leaks Database](https://offshoreleaks.icij.org/) :globe_with_meridians: - Data on offshore companies, foundations and trusts from the Panama Papers, the Offshore Leaks, the Bahamas Leaks and the Paradise Papers investigations.
 - [List of company registers](https://en.wikipedia.org/wiki/List_of_company_registers) :pencil: (Wikipedia) - A list of all companies registers, by country.
 - [OCCRP Data](https://data.occrp.org/) :globe_with_meridians: - Fantastic search tool & resources made available by OCCRP. Public records, leaks, scraped business registers, and more.
@@ -106,6 +108,12 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ## Location, Maps, Satellite Imagery
 
+### Interpretation
+- [How To Use Google Earth’s Three Dimensional View](https://www.bellingcat.com/resources/how-tos/2019/03/05/how-to-use-google-earths-three-dimensional-view-feat-syria-yemen-sudan/) :book: (Bellingcat)
+- [Identify Burnt Villages on Satellite Imagery](https://www.bellingcat.com/resources/how-tos/2018/09/04/identify-burnt-villages-satellite-imagery%e2%80%8a-case-studies-california-nigeria-myanmar/) :book: (Bellingcat)
+- [Photo Interpretation Student Handbook](https://sites.miis.edu/geospatialtools2012/files/2012/07/Photo-Interpretation-Student-Handbook.-Photo-Interpretation-Principles.pdf) :book: (US Defense Mapping Agency, 1996) - Old unclassified handbook on analyzing aerial & satellite imagery. General principles & specifics for buildings, industries, transportation & communication facilities.
+- [Using Time Lapse Satellite Imagery to Detect Infrastructure Changes](https://www.bellingcat.com/resources/how-tos/2018/11/19/using-time-lapse-satellite-imagery-detect-infrastructure-changes-case-studies-via-myanmar-nigeria-south-china-sea) :book: (Bellingcat)
+
 ### Mapping services & software
 
 - [Baidu Maps](https://map.baidu.com/) :globe_with_meridians: - Streetview = Panorama (百度全景)
@@ -118,7 +126,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
     - [GEarth Blog](https://www.gearthblog.com) - Resources & how-tos about Google Earth
 - Satellite imagery providers:
     - [Copernicus Open Access Hub](https://scihub.copernicus.eu/) :globe_with_meridians: - Free access to imagery from the European Sentinel satellites.
-    - [Descartes Labs](Descartes Labs) :globe_with_meridians:💲
+    - [Descartes Labs](https://www.descarteslabs.com/) :globe_with_meridians:💲
     - [DigitalGlobe Discover](https://discover.digitalglobe.com/) :globe_with_meridians: - Search for satellite imagery of a particular location. Ability to download images (low-resolution compared to Google Earth).
     - [NASA EarthData](https://search.earthdata.nasa.gov/) & NASA [EarthViewer](https://worldview.earthdata.nasa.gov/) :globe_with_meridians:
     - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) :globe_with_meridians: - NASA Landsat imagery
@@ -143,11 +151,6 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Vkontakte](https://vk.com) :globe_with_meridians: - Use `near:<coordinates>` in a  search.
 - [Wikimapia](http://wikimapia.org/) :globe_with_meridians: - User-generated locations & descriptions. Has an API. Also allows to switch between satellite imagery from Google, Bing, OSM.
 
-### Interpretation
-- [How To Use Google Earth’s Three Dimensional View](https://www.bellingcat.com/resources/how-tos/2019/03/05/how-to-use-google-earths-three-dimensional-view-feat-syria-yemen-sudan/) :book: (Bellingcat)
-- [Identify Burnt Villages on Satellite Imagery](https://www.bellingcat.com/resources/how-tos/2018/09/04/identify-burnt-villages-satellite-imagery%e2%80%8a-case-studies-california-nigeria-myanmar/) :book: (Bellingcat)
-- [Photo Interpretation Student Handbook](https://sites.miis.edu/geospatialtools2012/files/2012/07/Photo-Interpretation-Student-Handbook.-Photo-Interpretation-Principles.pdf) :book: (US Defense Mapping Agency, 1996) - Old unclassified handbook on analyzing aerial & satellite imagery. General principles & specifics for buildings, industries, transportation & communication facilities.
-- [Using Time Lapse Satellite Imagery to Detect Infrastructure Changes](https://www.bellingcat.com/resources/how-tos/2018/11/19/using-time-lapse-satellite-imagery-detect-infrastructure-changes-case-studies-via-myanmar-nigeria-south-china-sea) :book: (Bellingcat)
 
 ## Multi-purpose tools
 - [Belati](https://github.com/aancw/Belati) :computer: - Command-line OSINT tool with whois, subdomain enumeration, mail harvesting, and more.
@@ -162,40 +165,12 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ## Pictures, Photos, Videos
 
-### Search
-- [How to Conduct Comprehensive Video Collection](https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/) (Bellingcat) :book:
-- [IntelTechniques.com](https://inteltechniques.com/menu.html) :globe_with_meridians: - Various video search & reverse search tools and lists of resources.
-- [PimEyes](https://pimeyes.com) :globe_with_meridians: - Face-recognition matching search engine
-- [SearchFace.ru](https://searchface.ru) :globe_with_meridians: - Face recognition search engine for the Russian VK social network. See this [guide](https://www.bellingcat.com/resources/how-tos/2019/02/19/using-the-new-russian-facial-recognition-site-searchface-ru/) from Bellingcat for a tutorial.
-- [SocialMapper](https://github.com/SpiderLabs/social_mapper) :globe_with_meridians: - Social Media Mapping Tool that correlates profiles via facial recognition. Supports LinkedIn, Facebook, Twitter, Instagram, VKontakte, Weibo, Douban.
-- [Youtube Geo Search Tool]( https://youtube.github.io/geo-search-tool/search.html) :globe_with_meridians: - Search YT videos by location & time frame.
-
-
 ### Metadata
 - [Exiftool](http://owl.phy.queensu.ca/~phil/exiftool/) :computer: - Read and edit metadata. [Linode Tutorial](https://linoxide.com/linux-how-to/install-use-exiftool-linux-ubuntu-centos/)
 - Exif Viewer ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/)/[Chrome](https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck)) :computer:
 - [Ghiro](https://github.com/ghirensics/ghiro) :computer: - Automated image forensics tool
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) :globe_with_meridians:
 - [StolenCameraFinder](https://www.stolencamerafinder.com/) :globe_with_meridians: - Search the web for pictures taken with a specific camera serial number
-
-
-### Reverse search
-- [Bing Images](https://www.bing.com/images/) :globe_with_meridians: - Can search part of the image
-- [CitizenEvidence](https://citizenevidence.amnestyusa.org/) :globe_with_meridians: - Google Images reverse search on Youtube thumbnails.
-- [Google Images](https://images.google.com/) :globe_with_meridians:
-- [IntelTechniques.com](https://inteltechniques.com/menu.html) :globe_with_meridians:- Various image search & reverse search tools and lists of resources.
-- [TinEye](https://tineye.com/) :globe_with_meridians:
-- [Yandex Images](https://yandex.com/images/) :globe_with_meridians:
-
-
-### Verification & Analysis
-- [Advanced Guide on Verifying Video Content](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/) :book: (Bellingcat)
-- [How to verify photos and videos on social media networks](http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks) :book: (France24)
-- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) :computer: - Verification “Swiss army knife” Firefox extension.
-- [Photo Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf) & [Video Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_videos.pdf) :book: (FirstDraftNews)
-- [Verification 101](https://medium.com/1st-draft/verification-101-storyful-s-advice-for-checking-out-material-from-social-media-and-putting-it-750495792876) :book: - Storyful’s advice for checking out material from social media, and putting it into practice.
-- [Verification Handbook](http://verificationhandbook.com/book/) :book: - Handbook by the European Journalism Centre about verifying digital content in emergency coverage.
-
 
 ### Military/Weapons
 - [CalibreObscura](https://www.calibreobscura.com/) :globe_with_meridians: - A blog about weapons & their uses in Middle East conflicts.
@@ -207,6 +182,28 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [List of Comparative Military Ranks](https://en.wikipedia.org/wiki/List_of_comparative_military_ranks) :globe_with_meridians: (Wikipedia)
 - Small Arms Survey’s [Weapon ID database](http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html) :globe_with_meridians: - Search for small arms by caliber, type, location, etc.
 
+### Reverse search
+- [Bing Images](https://www.bing.com/images/) :globe_with_meridians: - Can search part of the image
+- [CitizenEvidence](https://citizenevidence.amnestyusa.org/) :globe_with_meridians: - Google Images reverse search on Youtube thumbnails.
+- [Google Images](https://images.google.com/) :globe_with_meridians:
+- [IntelTechniques.com](https://inteltechniques.com/menu.html) :globe_with_meridians:- Various image search & reverse search tools and lists of resources.
+- [TinEye](https://tineye.com/) :globe_with_meridians:
+- [Yandex Images](https://yandex.com/images/) :globe_with_meridians:
+### Search
+- [How to Conduct Comprehensive Video Collection](https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/) (Bellingcat) :book:
+- [IntelTechniques.com](https://inteltechniques.com/menu.html) :globe_with_meridians: - Various video search & reverse search tools and lists of resources.
+- [PimEyes](https://pimeyes.com) :globe_with_meridians: - Face-recognition matching search engine
+- [SearchFace.ru](https://searchface.ru) :globe_with_meridians: - Face recognition search engine for the Russian VK social network. See this [guide](https://www.bellingcat.com/resources/how-tos/2019/02/19/using-the-new-russian-facial-recognition-site-searchface-ru/) from Bellingcat for a tutorial.
+- [SocialMapper](https://github.com/SpiderLabs/social_mapper) :globe_with_meridians: - Social Media Mapping Tool that correlates profiles via facial recognition. Supports LinkedIn, Facebook, Twitter, Instagram, VKontakte, Weibo, Douban.
+- [Youtube Geo Search Tool]( https://youtube.github.io/geo-search-tool/search.html) :globe_with_meridians: - Search YT videos by location & time frame.
+
+### Verification & Analysis
+- [Advanced Guide on Verifying Video Content](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/) :book: (Bellingcat)
+- [How to verify photos and videos on social media networks](http://observers.france24.com/en/20151110-observers-guide-verifying-photos-videos-social-media-networks) :book: (France24)
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) :computer: - Verification “Swiss army knife” Firefox extension.
+- [Photo Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf) & [Video Verification Cheatsheet](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_videos.pdf) :book: (FirstDraftNews)
+- [Verification 101](https://medium.com/1st-draft/verification-101-storyful-s-advice-for-checking-out-material-from-social-media-and-putting-it-750495792876) :book: - Storyful’s advice for checking out material from social media, and putting it into practice.
+- [Verification Handbook](http://verificationhandbook.com/book/) :book: - Handbook by the European Journalism Centre about verifying digital content in emergency coverage.
 
 
 ## Social Networks
@@ -225,8 +222,8 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [InstaLooter](https://github.com/althonos/InstaLooter) :computer: - Download all pictures & videos from an Instagram profile. No API key needed.
 
 ### Linkedin
-- [An Investigative Guide To LinkedIn](https://www.bellingcat.com/resources/how-tos/2019/03/21/bellingcats-invitation-is-waiting-for-your-response-an-investigative-guide-to-linkedin/) :book: - (Bellingcat)
-- [LinkedIn Operators Tip Sheet](LinkedIn Operators) :book:
+- [An Investigative Guide To LinkedIn](https://www.bellingcat.com/resources/how-tos/2019/03/21/bellingcats-invitation-is-waiting-for-your-response-an-investigative-guide-to-linkedin/) :book: (Bellingcat)
+- [LinkedIn Operators Tip Sheet](https://booleanstrings.com/2018/12/06/linkedin-operators-one-more-tip-sheet/) :book:
 - [raven](https://github.com/0x09AL/raven) :computer: - Linkedin information gathering tool. Extracts employee data for a given company.
 - [The Endorser](https://github.com/eth0izzle/the-endorser) :computer: - Draw out relationships between people on LinkedIn via endorsements/skills.
 
@@ -252,23 +249,22 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [ICIJ Extract](https://github.com/ICIJ/extract) :computer: - A command line tool for parallelized, distributed content-extraction.
 - [searchbox](https://github.com/StephenGrey/searchbox) :computer: - A simple out-of-the-box web interface to search through thousands of unstructured documents using Solr.
 
-
 ### OCR
 - [NewOCR.com](https://www.newocr.com/) :globe_with_meridians: - Recognizes several languages, can resize images, shortcuts to Google & Bing Translate.
 - [Tesseract](https://github.com/tesseract-ocr/tesseract) :computer: - Open-source OCR engine.
+
+### PDF
+- [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) with PyPDF2, Tika & PDF Miner. :computer:
 
 ### Text Processing & Analysis
 - [topia](https://pypi.org/project/topia.termextract/) :snake: - Python module to determine important terms within a given piece of content.
 - [TXM](http://textometrie.ens-lyon.fr/?lang=en) :computer: - Lexicometry and text statistical analysis for large bodies of text.
 
-### PDF
-- [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) with PyPDF2, Tika & PDF Miner. :computer:
-
 ## Visualization
 
 ### Graphs
 - [DataWrapper](https://www.datawrapper.de) :globe_with_meridians:💲 - Easy to use graph & map tool. Free plan available.
-- [Google Fusion Table](https://support.google.com/fusiontables/answer/2571232) - Create maps & charts from data. Will shut down on Dec. 2019.
+- [Google Fusion Tables](https://support.google.com/fusiontables/answer/2571232) - Create maps & charts from data. Will shut down on Dec. 2019.
 - [Matplotlib](https://matplotlib.org/) :snake: - Python 2D plotting library. Best used with pandas in a Jupyter notebook.
 
 ### Maps
@@ -280,6 +276,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
     - [Earth](https://www.google.com/earth/) :globe_with_meridians:
     - [Earth Pro](https://www.google.com/earth/versions/):computer:
     - [Earth Studio](https://www.google.com/earth/studio/) :globe_with_meridians::computer:
+- [Humanitarian Data Exchange](https://data.humdata.org/) :globe_with_meridians: - Useful resources of shapefiles, especially for administrative boundaries.
 - [KML Interactive Sampler](https://googlemaps.github.io/kml-samples/interactive/index.html) :globe_with_meridians: - Lots of KML templates.
 - [QGIS](https://www.qgis.org/en/site/about/index.html) :computer: - Free & open-source alternative to ArcGis.
 
@@ -295,11 +292,24 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 
 ## Weather
-- [Wolfram Alpha](wolframalpha.com) :globe_with_meridians: - Weather history. ("What was the weather in New York on January 1st 2017 ?")
+- [Wolfram Alpha](wolframalpha.com) :globe_with_meridians: - Weather history. *What was the weather in New York on January 1st 2017?*
 - [Wunderground History](https://www.wunderground.com/history/) :globe_with_meridians: - Weather history
 
 
 ## Websites
+
+### Dark Web & Onion services
+- [OnionScan](https://github.com/s-rah/onionscan) :computer:
+    - DarkWeb OSINT with Python & OnionScan :book: (AutomatingOSINT.com) - [part1](http://www.automatingosint.com/blog/2016/07/dark-web-osint-with-python-and-onionscan-part-one/) / [part2](http://www.automatingosint.com/blog/2016/08/dark-web-osint-with-python-part-two-ssh-keys-and-shodan/) / [part3](http://www.automatingosint.com/blog/2016/08/dark-web-osint-with-python-part-three-visualization/)
+
+### Scraping
+- [Photon](https://github.com/s0md3v/Photon) :computer: - Crawl a website (or its archive from the WayBack machine) and extract URLs, emails, social media accounts, files, keys, subdomains, etc.
+- Python scraping libraries:
+    - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) :snake:
+    - [cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) :snake:
+    - [Selenium](https://www.seleniumhq.org/) :snake:
+    - [Scrapy](https://scrapy.org/) :snake:
+- [Scrape Interactive Geospatial Data](https://www.bellingcat.com/resources/how-tos/2018/09/05/scrape-interactive-geospatial-data/) :book: (Bellingcat)
 
 ### Searches, info, related entities
 - Advanced Google searches
@@ -314,24 +324,13 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) :computer: - Subdomains enumeration tool.
 - [Unveiling hidden site connections with Google Analytics IDs](https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/)  :book: (Bellingcat)
 - Whois
-:globe_with_meridians:/:computer:- Get registrar, owner info.
-
-### Scraping
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), [Selenium](https://www.seleniumhq.org/), [Scrapy](https://scrapy.org/) :snake: - Python scraping libraries.
-- [Photon](https://github.com/s0md3v/Photon) :computer: - Crawl a website (or its archive from the WayBack machine) and extract URLs, emails, social media accounts, files, keys, subdomains, etc.
-- [Scrape Interactive Geospatial Data](https://www.bellingcat.com/resources/how-tos/2018/09/05/scrape-interactive-geospatial-data/) :book: (Bellingcat)
-
-### Dark Web & Onion services
-- [OnionScan](https://github.com/s-rah/onionscan) :computer:
- - AutomatingOSINT.com: DarkWeb OSINT with Python & OnionScan :book: ([part1](http://www.automatingosint.com/blog/2016/07/dark-web-osint-with-python-and-onionscan-part-one/)/[part2](http://www.automatingosint.com/blog/2016/08/dark-web-osint-with-python-part-two-ssh-keys-and-shodan/)/[part3](http://www.automatingosint.com/blog/2016/08/dark-web-osint-with-python-part-three-visualization/))
-
+:globe_with_meridians:/:computer: - Get registrar, owner info.
 
 
 ## Misc
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) :pencil: - A list of Free Software network services and web applications which can be hosted locally
 - [grayhatwarfare](https://buckets.grayhatwarfare.com/) :globe_with_meridians: - Search open Amazon S3 buckets content.
 - [Shodan](https://www.shodan.io/) :globe_with_meridians: - Internet of Things search engine
-
 
 
 ## License
