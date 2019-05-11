@@ -170,6 +170,8 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - Exif Viewer ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/)/[Chrome](https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck)) :computer:
 - [Ghiro](https://github.com/ghirensics/ghiro) :computer: - Automated image forensics tool
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) :globe_with_meridians:
+- [mat2](https://0xacab.org/jvoisin/mat2) :computer: - Metadata removal tool
+- [mat2-web](https://mat2-web.dustri.org/) :globe_with_meridians: - Online version of mat2
 - [StolenCameraFinder](https://www.stolencamerafinder.com/) :globe_with_meridians: - Search the web for pictures taken with a specific camera serial number
 
 ### Military/Weapons
@@ -255,6 +257,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ### PDF
 - [PDF Text Extraction](https://r3mlab.github.io/python/osint/2018/08/09/PDF-text-extraction.html) with PyPDF2, Tika & PDF Miner. :computer:
+- [tabula](https://tabula.technlogy) :computer: - Tool for liberating data tables trapped inside PDF files.
 
 ### Text Processing & Analysis
 - [topia](https://pypi.org/project/topia.termextract/) :snake: - Python module to determine important terms within a given piece of content.
