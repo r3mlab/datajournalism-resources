@@ -137,7 +137,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Yandex Maps](https://yandex.com/maps) :globe_with_meridians: - Has a "Streetview" feature.
 
 ### Tools & techniques
-- [Geographic Bounding Box Drawing Tool](http://automatingsint.com/blog/geographic-bounding-box-drawing-tool/)  :globe_with_meridians: - Draw a rectangle over a map and get the coordinates of its points & center.
+- [Geographic Bounding Box Drawing Tool](http://www.automatingosint.com/blog/geographic-bounding-box-drawing-tool/)  :globe_with_meridians: - Draw a rectangle over a map and get the coordinates of its points & center.
 - [Shadows and Angles: Measuring Object Heights from Satellite Imagery](https://www.gislounge.com/shadows-angles-measuring-object-heights-satellite-imagery/) :book: (GISLounge)
 - [SunCalc](https://suncalc.org/) :globe_with_meridians: - Historical solar data (sun orientation & elevation, shadow length, etc).
 - [TerraPattern](http://www.terrapattern.com/) :globe_with_meridians: - Scan large geographical areas for specific visual features using machine learning. Only available for 7 cities.
@@ -167,7 +167,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 ### Metadata
 - [Exiftool](http://owl.phy.queensu.ca/~phil/exiftool/) :computer: - Read and edit metadata. [Linode Tutorial](https://linoxide.com/linux-how-to/install-use-exiftool-linux-ubuntu-centos/)
-- Exif Viewer ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/)/[Chrome](https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck)) :computer:
+- Exif Viewer ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/)/[Chrome](https://chrome.google.com/webstore/detail/exif-viewer/https://chrome.google.com/webstore/detail/exif-viewer/mmbhfeiddhndihdjeganjggkmjapkffm)) :computer:
 - [Ghiro](https://github.com/ghirensics/ghiro) :computer: - Automated image forensics tool
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) :globe_with_meridians:
 - [mat2](https://0xacab.org/jvoisin/mat2) :computer: - Metadata removal tool
@@ -234,7 +234,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - [Reddit Investigator](http://www.redditinvestigator.com/) :globe_with_meridians: - Collect info on a Reddit profile.
 
 ### Twitter
-- [tinfoleak](https://github.com/vaaguileradiaz/tinfoleak) :computer: - Very complete open-source tool for Twitter intelligence analysis. Needs API credentials.
+- [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) :computer: - Very complete open-source tool for Twitter intelligence analysis. Needs API credentials.
 - [twarc](https://github.com/DocNow/twarc) :computer::snake: - A command line tool and Python library for archiving Twitter in JSON format.
 - [Tweetdeck](https://tweetdeck.twitter.com/) :globe_with_meridians:
 - Tweetdeck [Location Search Tutorial](http://thoughtfaucet.com/search-twitter-by-location/tweetdeck-twitter-location-search-tutorial/) :book:
@@ -295,7 +295,7 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 
 
 ## Weather
-- [Wolfram Alpha](wolframalpha.com) :globe_with_meridians: - Weather history. *What was the weather in New York on January 1st 2017?*
+- [Wolfram Alpha](https://www.wolframalpha.com) :globe_with_meridians: - Weather history. *What was the weather in New York on January 1st 2017?*
 - [Wunderground History](https://www.wunderground.com/history/) :globe_with_meridians: - Weather history
 
 
@@ -318,7 +318,6 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - Advanced Google searches
     - [Google Search Operators](https://moz.com/learn/seo/search-operators) :book: (moz.com)
     - [Mastering Google Search Operators in 67 steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps) :book: (moz.com)
-    - [How to use Google dork for hacking](http://www.tekgyd.com/2015/07/how-to-use-google-dork-for-hacking.html) :book: (tekgyd.com)
     - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) :book: (Exploit.db)
     - [Google Search Operators: The Complete List](https://ahrefs.com/blog/google-advanced-search-operators/) :book: (ahrefs.com)
 - [NerdyData Search](https://search.nerdydata.com/) :globe_with_meridians: - Search the source code of pages.
